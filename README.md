@@ -1,61 +1,68 @@
-What is a Raspberry Pi device?
-A Raspberry Pi device is a small, powerful, and inexpensive single-baord computer (SBC). It enables wireless internet & bluetooth connectivity, HDMI/USB/Audio ports, and other devices found on a typical computer. It is commonly used to teach programming and building hardware projects to home automation, robotics, and can also act as a streamer or web server.
+# Raspberry-Pi-Portfolio
 
-Labelled Diagram of Raspberry Pi Board.
-RASPBERRY PI BOARD LABELLED
+## What is a Raspberry Pi device?
+A Raspberry Pi device is a small, powerful, and inexpensive single-baord computer (SBC). It enables wireless internet & bluetooth connectivity, HDMI/USB/Audio ports, and other devices found on a typical computer. It is commonly used to teach programming and building hardware projects to home automation, robotics, and can also act as a streamer or web server. 
 
-Component List and their functions:
-CPU - ARM processor with integrated graphics. It is the heart of the device which controls the I/O devices and computations.
+## Labelled Diagram of Raspberry Pi Board.
 
-HDMI Ports - High Definition Multimedia Interface used for transmitting video and digital audtio data from a computer to monitor or digital TV.
+![RASPBERRY PI BOARD LABELLED](https://github.com/user-attachments/assets/19ebbb48-85b1-46ed-a9ef-0a747b50d28f)
 
-GPIO Ports - General Purpose Input Output Ports which allows the user to interface various I/P devices.
+### Component List and their functions:
 
-Stereo Audio - Audio connector used for connecting audio output devices such as speakers and headphones.
+**CPU** - ARM processor with integrated graphics. It is the heart of the device which controls the I/O devices and computations. 
 
-USB Ports - A common port available for various peripheral devices, such as a mouse, keyboard, HDD etc. This model has both 2.0 and 3.0 USB ports.
+**HDMI Ports** - High Definition Multimedia Interface used for transmitting video and digital audtio data from a computer to monitor or digital TV. 
 
-Micro SD Card Slot - SD card slot which is required for booting the device with an installed and functional operating system.
+**GPIO Ports** - General Purpose Input Output Ports which allows the user to interface various I/P devices. 
 
-Ethernet Port - This connector allows the user access to a wirred network, however only available on the model B of Raspberry Pi.
+**Stereo Audio** - Audio connector used for connecting audio output devices such as speakers and headphones.
 
-CSI Camera Port - Camera Serial Interface connects the Broadcom processor to the Pi camera.
+**USB Ports** - A common port available for various peripheral devices, such as a mouse, keyboard, HDD etc. This model has both 2.0 and 3.0 USB ports.  
 
-15-Pin Ribbon Connector - Display Serial Interface (DSI) is used for connecting LCD to Raspberry Pi using 15 15-pin ribbon cables. DSI provides a high-resolution display interface that is specifically used for sending video data.
+**Micro SD Card Slot** - SD card slot which is required for booting the device with an installed and functional operating system. 
 
-PoE HAT Header - The PoE HAT allows you to power your Raspberry Pi using Power over Ethernet–enabled networks.
+**Ethernet Port** - This connector allows the user access to a wirred network, however only available on the model B of Raspberry Pi.
 
-USB-C Power Port - This USB-C port serves primarily as the power input, allowing the device to be powered via a USB-C power adapter.
+**CSI Camera Port** - Camera Serial Interface connects the Broadcom processor to the Pi camera. 
 
-Additional Apparatus
-Screenshot 2025-03-19 013251
+**15-Pin Ribbon Connector** - Display Serial Interface (DSI) is used for connecting LCD to Raspberry Pi using 15 15-pin ribbon cables. DSI provides a high-resolution display interface that is specifically used for sending video data.
 
-Component List and their functions:
-Ultrasonic Sensor: This sensor measures the distance between itself and an object using ultrasonic waves. It's commonly used in obstacle detection for robots or distance measurement applications.
+**PoE HAT Header** - The PoE HAT allows you to power your Raspberry Pi using Power over Ethernet–enabled networks. 
 
-5050 RGB LED Stick: A small stick of individually addressable RGB LEDs. It allows you to control the color and brightness of each LED independently, useful for creating colorful light effects.
+**USB-C Power Port** - This USB-C port serves primarily as the power input, allowing the device to be powered via a USB-C power adapter.
 
-Lego Wheel: A basic wheel part compatible with Lego Technic sets. Often used to create robot bases or moving vehicles.
 
-Wii Remote: A game controller from the Nintendo Wii console, often repurposed in DIY projects to provide motion input or button controls via Bluetooth.
+## Additional Apparatus
 
-5MP Camera Module: A small camera, likely compatible with Raspberry Pi, used to capture images or video, and can be implemented for computer vision projects.
+![Screenshot 2025-03-19 013251](https://github.com/user-attachments/assets/0f2589fd-9996-4263-b52e-972114c1d1ab)
 
-Infared Reflective Sensor: This component measures temperature. It might output analog or digital signals to microcontrollers for applications like weather stations or environment monitoring.
+### Component List and their functions:
 
-Vending Machine Breadboard: A reusable board for prototyping electronic circuits without soldering. It allows you to connect various components and test circuit designs.
+**Ultrasonic Sensor**: This sensor measures the distance between itself and an object using ultrasonic waves. It's commonly used in obstacle detection for robots or distance measurement applications.
 
-Raspberry Pi Build HAT: A small, affordable computer used for a variety of electronics projects. It serves as the control unit that can run programs, control sensors, and process data.
+**5050 RGB LED Stick**: A small stick of individually addressable RGB LEDs. It allows you to control the color and brightness of each LED independently, useful for creating colorful light effects.
 
-Speaker: A small audio output device used to produce sounds or play audio signals in projects.
+**Lego Wheel**: A basic wheel part compatible with Lego Technic sets. Often used to create robot bases or moving vehicles.
 
-2 x 20 Pin Connector: A connector likely used to interface other components or GPIO pins with the Raspberry Pi, making it easier to connect various peripherals.
+**Wii Remote**: A game controller from the Nintendo Wii console, often repurposed in DIY projects to provide motion input or button controls via Bluetooth.
 
-Lego Color Sensor: A sensor that detects the color of an object, often used in robotics for tasks like line following or object sorting.
+**5MP Camera Module**: A small camera, likely compatible with Raspberry Pi, used to capture images or video, and can be implemented for computer vision projects.
 
-Works Cited
-Ltd, R. P. (n.d.). Raspberry Pi for home – Raspberry Pi. Raspberry Pi. https://www.raspberrypi.com/for-home/
+**Infared Reflective Sensor**: This component measures temperature. It might output analog or digital signals to microcontrollers for applications like weather stations or environment monitoring.
+
+**Vending Machine Breadboard**: A reusable board for prototyping electronic circuits without soldering. It allows you to connect various components and test circuit designs.
+
+**Raspberry Pi Build HAT**: A small, affordable computer used for a variety of electronics projects. It serves as the control unit that can run programs, control sensors, and process data.
+
+**Speaker**: A small audio output device used to produce sounds or play audio signals in projects.
+
+**2 x 20 Pin Connector**: A connector likely used to interface other components or GPIO pins with the Raspberry Pi, making it easier to connect various peripherals.
+
+**Lego Color Sensor**: A sensor that detects the color of an object, often used in robotics for tasks like line following or object sorting.
+
+
+## Works Cited
+
+Ltd, R. P. (n.d.). Raspberry Pi for home – Raspberry Pi. Raspberry Pi. https://www.raspberrypi.com/for-home/ 
 
 GeeksforGeeks. (2023, November 2). Architecture of Raspberry Pi. GeeksforGeeks. https://www.geeksforgeeks.org/architecture-of-raspberry-pi/
-
-Timmons-Brown, D. (2019). Learn robotics with Raspberry Pi: Build and code your own moving, sensing, thinking robots. No Starch Press.
